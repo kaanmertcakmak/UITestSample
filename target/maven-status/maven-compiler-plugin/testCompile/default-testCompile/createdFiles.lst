@@ -1,0 +1,7 @@
+steps\StepDefinitions.class
+cucumber_options\TestRunner.class
+page_elements\HomePage.class
+page_elements\ProductDetailPage.class
+page_elements\BasketPage.class
+page_elements\CategoryPage.class
+page_elements\HeaderElements.class
